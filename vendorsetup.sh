@@ -1,0 +1,4 @@
+add_lunch_combo candy5_m7vzw-user
+add_lunch_combo candy5_m7vzw-userdebug
+add_lunch_combo candy5_m7vzw-eng
+
